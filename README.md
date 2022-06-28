@@ -6,7 +6,7 @@ The solution set must not contain duplicate subsets. Return the solution in spec
 ## Installation
 
 ```bash
-git clone https://github.com/rvillegasx/validParentheses.git
+git clone https://github.com/rvillegasx/powerSet.git
 ```
 
 ### Constraints:
